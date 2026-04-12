@@ -10,7 +10,7 @@
 > University of Derby 2025/26 — Component 5 Automation Artefact
 
 ---
-## 🚀 Run It Instantly
+##  Run It Instantly
 
 Click the badge above — no setup, no installation. Opens directly in Google Colab.
 
@@ -25,7 +25,7 @@ jupyter notebook AI_Fraud_Compliance_Mapper.ipynb
 
 ---
 
-## 📊 What the Notebook Generates
+## What the Notebook Generates
 
 | Output | Description |
 |--------|-------------|
@@ -37,7 +37,7 @@ jupyter notebook AI_Fraud_Compliance_Mapper.ipynb
 
 ---
 
-## 🔴 System Assessment Result
+##  System Assessment Result
 
 | Metric | Result |
 |--------|--------|
@@ -69,7 +69,7 @@ A real-time ML system (Gradient Boosting + Neural Network ensemble) that scores 
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 7cs525-fraud-ai-compliance/
@@ -80,7 +80,7 @@ A real-time ML system (Gradient Boosting + Neural Network ensemble) that scores 
 
 ---
 
-## 🎓 Academic Context
+##  Academic Context
 
 **Module:** 7CS525 Human and Legal Aspects of Cyber Security  
 **Programme:** MSc Cybersecurity, University of Derby  
@@ -90,4 +90,3 @@ A real-time ML system (Gradient Boosting + Neural Network ensemble) that scores 
 
 ---
 
-*This repository is an academic artefact. Not legal advice.*
