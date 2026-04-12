@@ -10,15 +10,6 @@
 > University of Derby 2025/26 — Component 5 Automation Artefact
 
 ---
-
-## What This Is
-
-An interactive Jupyter notebook that automates the **regulatory compliance mapping and risk assessment** for an AI-driven fraud detection system deployed in UK retail banking — analysed against the **EU AI Act (2024)** and **UK AI White Paper (2023)**.
-
-Inspired by [mrwadams/ai-act-requirements-graph](https://github.com/mrwadams/ai-act-requirements-graph).
-
----
-
 ## 🚀 Run It Instantly
 
 Click the badge above — no setup, no installation. Opens directly in Google Colab.
