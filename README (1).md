@@ -1,10 +1,4 @@
-# 🏦 AI Fraud Detection — Regulatory Compliance Mapper
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOURUSERNAME/7cs525-fraud-ai-compliance/blob/main/AI_Fraud_Compliance_Mapper.ipynb)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
-![Framework](https://img.shields.io/badge/Framework-EU%20AI%20Act%20%7C%20UK%20AI%20White%20Paper-red)
-![Module](https://img.shields.io/badge/Module-7CS525-navy)
-![License](https://img.shields.io/badge/License-MIT-green)
+# AI Fraud Detection — Regulatory Compliance Mapper
 
 > **7CS525 Human and Legal Aspects of Cyber Security**  
 > University of Derby 2025/26 — Component 5 Automation Artefact
