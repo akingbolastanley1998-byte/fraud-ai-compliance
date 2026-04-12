@@ -13,7 +13,7 @@ Or run locally:
 
 ```bash
 git clone https://github.com/akingbolastanley1998-byte/fraud-ai-compliance
-cd 7cs525-fraud-ai-compliance
+cd fraud-ai-compliance
 pip install -r requirements.txt
 jupyter notebook AI_Fraud_Compliance_Mapper.ipynb
 ```
