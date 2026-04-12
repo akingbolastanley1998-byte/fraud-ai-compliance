@@ -50,7 +50,7 @@ jupyter notebook AI_Fraud_Compliance_Mapper.ipynb
 
 ---
 
-## 🗺 System Under Analysis
+## System Under Analysis
 
 **AI-Driven Transaction Fraud Detection System** — UK Retail Banking
 
@@ -58,7 +58,7 @@ A real-time ML system (Gradient Boosting + Neural Network ensemble) that scores 
 
 ---
 
-## 📋 Regulatory Frameworks Covered
+## Regulatory Frameworks Covered
 
 - **EU AI Act (2024)** — Annex III §5(b) High-Risk classification; Articles 9–17 obligations
 - **UK AI White Paper (2023)** — Five cross-sector principles gap analysis
