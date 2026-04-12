@@ -12,7 +12,7 @@ Click the badge above — no setup, no installation. Opens directly in Google Co
 Or run locally:
 
 ```bash
-git clone https://github.com/YOURUSERNAME/7cs525-fraud-ai-compliance
+git clone https://github.com/akingbolastanley1998-byte/7cs525-fraud-ai-compliance
 cd 7cs525-fraud-ai-compliance
 pip install -r requirements.txt
 jupyter notebook AI_Fraud_Compliance_Mapper.ipynb
