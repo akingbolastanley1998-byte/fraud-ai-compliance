@@ -81,6 +81,6 @@ A real-time ML system (Gradient Boosting + Neural Network ensemble) that scores 
 **Programme:** MSc Cybersecurity, University of Derby  
 **Component:** 5 — Automation Artefacts (15% weighting)
 
-**Why this is relevant:** EU AI Act Article 9 mandates a documented risk management system throughout the AI lifecycle. This notebook operationalises that requirement — producing a reproducible, auditable compliance assessment. The requirements graph makes the relationships between obligations visible in a way that static text cannot, directly supporting Components 1 and 3 of the portfolio.
+**Why this is relevant:** EU AI Act Article 9 mandates a documented risk management system throughout the AI lifecycle. This notebook operationalises that requirement producing a reproducible, auditable compliance assessment. The requirements graph makes the relationships between obligations visible in a way that static text cannot, directly supporting Components 1 and 3 of the portfolio.
 
 ---
